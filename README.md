@@ -1,7 +1,7 @@
 # moneygamingAutomation
 
 # Requirments
- Selenium local server https://www.selenium.dev/downloads/ download the stable version <br />
+ Selenium local server https://www.selenium.dev/downloads,  download the stable version <br />
  Chrome driver supporting the jar file. 
 
 # Run tests in maven 
