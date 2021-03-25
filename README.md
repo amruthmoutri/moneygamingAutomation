@@ -1,4 +1,4 @@
-# moneygamingAutomation
+# moneygaming automation
 
 # Requirments
  Selenium local server https://www.selenium.dev/downloads,  download the stable version <br />
